@@ -113,12 +113,6 @@ All graphs and result tables will be generated automatically inside an `outputs/
 
 ---
 
-## 📄 Full Report
-
-See [`Project_I_Insurance_Classification_Report.docx`](./Project_I_Insurance_Classification_Report.docx) for the complete write-up including Literature Review, Methodology, full Results discussion, Hypothesis Testing analysis, and Conclusion — in IEEE-style project report format.
-
----
-
 ## 📚 Key Learnings
 
 - A model with the **highest training accuracy is not automatically the best model** — always check the train-test gap before trusting it.
@@ -130,4 +124,4 @@ See [`Project_I_Insurance_Classification_Report.docx`](./Project_I_Insurance_Cla
 
 ## 📬 Contact
 
-**Abbas** — MIT School of Computing, MIT-ADT University, Pune
+**Abbas Lokhandwala** — MIT School of Computing, MIT-ADT University, Pune
